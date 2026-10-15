@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Taza Personalizada",
+    "description": "Algo pequeño para alguien grande.",
+    "price": 45,
+    "icon": "☕"
+  },
+  {
+    "id": 2,
+    "name": "Cuaderno de Notas",
+    "description": "Tus ideas, planes y proyectos simples... en un cuaderno .",
+    "price": 50,
+    "icon": "📒"
+  },
+  {
+    "id": 3,
+    "name": "Bolso",
+    "description": "Tu compañero.",
+    "price": 300,
+    "icon": "👜"
+  }
+]
